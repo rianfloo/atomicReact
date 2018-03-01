@@ -10,7 +10,7 @@ const Title = (props) => {
 
 Title.defaultProps = {
   className: '',
-  Content: '',
+  content: '',
 }
 
 export default Title;
